@@ -1,0 +1,27 @@
+{
+  "hints": [],
+  "groups": [
+    {
+      "sourceType": "com.zhq.pojo.Resource",
+      "name": "com.zhq.opensource",
+      "type": "com.zhq.pojo.Resource"
+    }
+  ],
+  "properties": [
+    {
+      "sourceType": "com.zhq.pojo.Resource",
+      "name": "com.zhq.opensource.language",
+      "type": "java.lang.String"
+    },
+    {
+      "sourceType": "com.zhq.pojo.Resource",
+      "name": "com.zhq.opensource.name",
+      "type": "java.lang.String"
+    },
+    {
+      "sourceType": "com.zhq.pojo.Resource",
+      "name": "com.zhq.opensource.website",
+      "type": "java.lang.String"
+    }
+  ]
+}
